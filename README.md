@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @d3ssa1ines
-- 👀 I’m interested in cloud security and ethical hacking
+- 👀 I’m interested in networking, cloud security and bug bounties
 - 🌱 I’m currently learning ethical hacking and python
 - 💞️ I’m looking to collaborate on learning new skills
   
